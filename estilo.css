@@ -142,10 +142,9 @@ body {
         width: 100%;
         height: 40%;
         border-radius: 10px 10px 0px 0px;
-        background-image: url(./images/image-product-desktop.jpg);
+        background-image: url(./images/image-product-mobile.jpg);
         background-size: 100%;
         background-repeat: no-repeat;
-        background-position: 70% 40%;
         
     }
 
@@ -226,7 +225,7 @@ body {
     .button button img {
         padding-right: 10px;
     }
-    
+
     .button {
         text-decoration: none;
     }
